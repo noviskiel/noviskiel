@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff79c6&text=Kamilly%20Medino&fontColor=ffffff&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff79c6"/>
 
 <div align="center">
   
@@ -6,7 +6,7 @@
 <samp>
     <br>
     Hey! Welcome to my universe 🌌<br>
-    I'm <b>Kamilly Medino</b> — developer, designer & dreamer.
+    I'm <b>Emanue Noviski</b> — developer, designer & dreamer.
 </samp>
 </div>
 
@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 ```yaml
-Name: Kamilly Medino
+Name: Emanuel Noviski de Barros
 From: Brazil
 Interests: Design 🎨, Tech 💻, IoT ⚡, Open Source 🌍
 Currently: Studying Systems Analysis & Development
