@@ -22,5 +22,5 @@
 ```yaml
 Name: Emanuel Noviski de Barros
 From: Brazil
-Interests: Design, Technology, IoT, Open Source
+Interests: Design, Technology
 Currently: Studying Systems Analysis & Development
