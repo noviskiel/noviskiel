@@ -6,7 +6,7 @@
 <samp>
     <br>
     Hey! Welcome to my universe <br>
-    I'm <b>Emanue Noviski</b> — developer, designer & dreamer.
+    I'm <b>Emanuel Noviski</b> — developer, designer & dreamer.
 </samp>
 </div>
 
