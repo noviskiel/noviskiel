@@ -1,21 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FAC341"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8C52FF"/>
 
 <div align="center">
   
  <b>`ノヴィスキエル`</b>  
-<table>
-  <tr>
-    <td align="center">
+<br>
+<img src="./rewrite-sonic-sonic.gif" width="95" alt="Animated Sonic gif"/>
+<br>
 <samp>
     <br>
     Hey! Welcome to my universe <br>
     I'm <b>Emanuel Noviski</b> — developer, designer & dreamer.
 </samp>
-    </td>
-  </tr>
-</table>
-<br>
-<img src="./rewrite-sonic-sonic-yellow.gif" width="140" alt="Animated yellow Sonic gif"/>
 </div>
 
 ---
@@ -26,11 +21,4 @@
 
 ---
 
-### <font color="#FAC341">About Me</font>
-```yaml
-name: Emanuel Noviski de Barros
-from: Brazil
-interests: Design, Technology
-currently: Studying Systems Analysis & Development
-accent: "#FAC341"
-```
+<br>
