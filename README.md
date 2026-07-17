@@ -1,3 +1,4 @@
+<img width="640" height="640" alt="imagem_2026-07-17_174302922-ezgif com-remove-background" src="https://github.com/user-attachments/assets/ee6a7756-2e51-4435-aae8-9026a356be64" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FAC341"/>
 
 <div align="center">
