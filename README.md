@@ -3,11 +3,19 @@
 <div align="center">
   
  <b>`ノヴィスキエル`</b>  
+<table>
+  <tr>
+    <td align="center">
 <samp>
     <br>
     Hey! Welcome to my universe <br>
     I'm <b>Emanuel Noviski</b> — developer, designer & dreamer.
 </samp>
+    </td>
+  </tr>
+</table>
+<br>
+<img src="./rewrite-sonic-sonic-yellow.gif" width="140" alt="Animated yellow Sonic gif"/>
 </div>
 
 ---
@@ -18,9 +26,11 @@
 
 ---
 
-### About Me
+### <font color="#FAC341">About Me</font>
 ```yaml
-Name: Emanuel Noviski de Barros
-From: Brazil
-Interests: Design, Technology
-Currently: Studying Systems Analysis & Development
+name: Emanuel Noviski de Barros
+from: Brazil
+interests: Design, Technology
+currently: Studying Systems Analysis & Development
+accent: "#FAC341"
+```
